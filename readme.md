@@ -14,7 +14,7 @@ If you’re really keen, consider doing the stretch specs.
 
 Note: while the “Learn Enough Command Line” book is free to read online, you have to buy a copy in order to gain access to the official solutions. 😞 However, this nice person put their solutions up, in case you’re interested in referencing.
 
-##Specifications
+## Specifications
 
 - [ ] Artifact is a GitHub repo.
 - [ ] 20 exercises are completed from the “Learn Enough Command Line to be Dangerous” book.
@@ -31,7 +31,7 @@ Tip: for the bash-scripting tutorials, check your solutions by executing your ba
 - [ ] Variables, functions, files, etc. have appropriate and meaningful names.
 - [ ] The artifact produced is properly licensed, preferably with the MIT license.
 
-Stretch
+## Stretch
 
 - [ ] All exercises are completed from the “Learn Enough Command Line to be Dangerous” book and solution code is included as files under a command-line/ directory.
 - [ ] All activities are completed from the Bash Scripting tutorials and solution code is included as files under a bash-scripting/ directory.
