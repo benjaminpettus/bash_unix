@@ -50,3 +50,6 @@ Videos:
 
 Unix Commands Tutorial for Beginners: 1 and 2
 Unix Tutorial for Beginners
+
+## check
+3_ summary.sh
