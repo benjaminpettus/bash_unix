@@ -3,6 +3,8 @@ man <command> - access the manual page for the command entered
 > redirect output to file name
 >> append output to filename
 
+echo -en '\n' - creates blank line in your shell script
+
 cat [file name] - prints the contents of the file
 
 ctrl or ^
@@ -22,7 +24,7 @@ ls -a will show all files including dotfiles
 
 ls *onnet* will look for all file names that contain the string within the stars
 
-mv - move
+mv - rename file/dir
 cp - copy
 rm -remove
 
@@ -73,3 +75,13 @@ ps - Show processes - $ ps aux
 top - Show processes (sorted) - $ top
 kill -<level> <pid> - Kill a process - $ kill -15 24601
 pkill -<level> -f <name> - Kill matching processes - $ pkill -15 -f spring
+
+
+NAVIGATING DIRECTORIES
+cd - takes you to the users home directory ( equivalent to cd ~ )
+cd -  - will change to the previous directory
+find .-name `*.txt` - will find all files in the current directory that match .txt
+
+  - Can combine commands with ; or &&
+  $ ./configure ; make ; make install - will run all commands regarless of failure
+  $ ./configure && make && make install - each command depends on the previous succeeding
