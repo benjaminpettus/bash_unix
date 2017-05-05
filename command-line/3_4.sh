@@ -1,6 +1,7 @@
 #!/bin/bash
-
-# 1
+echo
+echo '>>> 3_4 Grepping <<<'
+echo
 echo 'Exercise  1 :: By searching man grep for “line number”, construct a command to find the line
 numbers in sonnets.txt where the string “rose” appears.'
 echo

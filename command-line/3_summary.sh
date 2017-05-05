@@ -2,9 +2,8 @@
 
 # 1
 echo
-# echo 'Queston :: pipe history to less to examine your command history. What was your 17th command?'
-# history | less
-# echo 'Answer "" 17  npm install sync-request'
+echo 'Queston :: pipe history to less to examine your command history. What was your 17th command?'
+history | less
 #
 # echo
 # 2
