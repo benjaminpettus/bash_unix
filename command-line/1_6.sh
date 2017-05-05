@@ -1,5 +1,6 @@
 #!/bin/bash/
 echo
+echo '>>> 1 Summary <<<'
 echo 'Exercise :: Write a command to print the string Use "man echo", including the quotes; i.e., take care not to print out Use man echo instead.'
 echo 'Use "man echo"'
 echo

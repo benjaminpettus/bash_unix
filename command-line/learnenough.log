@@ -1,0 +1,47 @@
+PING learnenough.com (104.25.168.34): 56 data bytes
+64 bytes from 104.25.168.34: icmp_seq=0 ttl=58 time=5.268 ms
+64 bytes from 104.25.168.34: icmp_seq=1 ttl=58 time=7.494 ms
+64 bytes from 104.25.168.34: icmp_seq=2 ttl=58 time=6.106 ms
+64 bytes from 104.25.168.34: icmp_seq=3 ttl=58 time=7.051 ms
+64 bytes from 104.25.168.34: icmp_seq=4 ttl=58 time=7.254 ms
+64 bytes from 104.25.168.34: icmp_seq=5 ttl=58 time=7.579 ms
+64 bytes from 104.25.168.34: icmp_seq=6 ttl=58 time=5.752 ms
+64 bytes from 104.25.168.34: icmp_seq=7 ttl=58 time=12.425 ms
+64 bytes from 104.25.168.34: icmp_seq=8 ttl=58 time=5.750 ms
+64 bytes from 104.25.168.34: icmp_seq=9 ttl=58 time=8.481 ms
+64 bytes from 104.25.168.34: icmp_seq=10 ttl=58 time=7.583 ms
+64 bytes from 104.25.168.34: icmp_seq=11 ttl=58 time=7.370 ms
+64 bytes from 104.25.168.34: icmp_seq=12 ttl=58 time=7.156 ms
+64 bytes from 104.25.168.34: icmp_seq=13 ttl=58 time=7.732 ms
+64 bytes from 104.25.168.34: icmp_seq=14 ttl=58 time=7.800 ms
+64 bytes from 104.25.168.34: icmp_seq=15 ttl=58 time=7.463 ms
+64 bytes from 104.25.168.34: icmp_seq=16 ttl=58 time=6.012 ms
+64 bytes from 104.25.168.34: icmp_seq=17 ttl=58 time=8.248 ms
+64 bytes from 104.25.168.34: icmp_seq=18 ttl=58 time=5.327 ms
+64 bytes from 104.25.168.34: icmp_seq=19 ttl=58 time=7.584 ms
+64 bytes from 104.25.168.34: icmp_seq=20 ttl=58 time=6.998 ms
+64 bytes from 104.25.168.34: icmp_seq=21 ttl=58 time=7.550 ms
+64 bytes from 104.25.168.34: icmp_seq=22 ttl=58 time=10.399 ms
+64 bytes from 104.25.168.34: icmp_seq=23 ttl=58 time=10.124 ms
+64 bytes from 104.25.168.34: icmp_seq=24 ttl=58 time=8.473 ms
+64 bytes from 104.25.168.34: icmp_seq=25 ttl=58 time=7.254 ms
+64 bytes from 104.25.168.34: icmp_seq=26 ttl=58 time=7.045 ms
+64 bytes from 104.25.168.34: icmp_seq=27 ttl=58 time=5.345 ms
+64 bytes from 104.25.168.34: icmp_seq=28 ttl=58 time=5.751 ms
+64 bytes from 104.25.168.34: icmp_seq=29 ttl=58 time=14.019 ms
+64 bytes from 104.25.168.34: icmp_seq=30 ttl=58 time=7.257 ms
+64 bytes from 104.25.168.34: icmp_seq=31 ttl=58 time=6.887 ms
+64 bytes from 104.25.168.34: icmp_seq=32 ttl=58 time=7.859 ms
+64 bytes from 104.25.168.34: icmp_seq=33 ttl=58 time=8.410 ms
+64 bytes from 104.25.168.34: icmp_seq=34 ttl=58 time=9.404 ms
+64 bytes from 104.25.168.34: icmp_seq=35 ttl=58 time=7.212 ms
+64 bytes from 104.25.168.34: icmp_seq=36 ttl=58 time=7.614 ms
+64 bytes from 104.25.168.34: icmp_seq=37 ttl=58 time=7.873 ms
+64 bytes from 104.25.168.34: icmp_seq=38 ttl=58 time=4.750 ms
+64 bytes from 104.25.168.34: icmp_seq=39 ttl=58 time=7.516 ms
+64 bytes from 104.25.168.34: icmp_seq=40 ttl=58 time=5.608 ms
+64 bytes from 104.25.168.34: icmp_seq=41 ttl=58 time=6.841 ms
+
+--- learnenough.com ping statistics ---
+42 packets transmitted, 42 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 4.750/7.515/14.019/1.760 ms
