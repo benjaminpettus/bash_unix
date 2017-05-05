@@ -85,3 +85,38 @@ find .-name `*.txt` - will find all files in the current directory that match .t
   - Can combine commands with ; or &&
   $ ./configure ; make ; make install - will run all commands regarless of failure
   $ ./configure && make && make install - each command depends on the previous succeeding
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+BASH SCRIPTING
+
+Variables
+when referring to or reading a variable place $ before the name
+when setting a variable leave out the $
+
+case does not matter
+
+- special variables that are set for you by the system
+$0 - The name of the Bash script.
+$1 - $9 - The first 9 arguments to the Bash script. (As mentioned above.)
+$# - How many arguments were passed to the Bash script.
+$@ - All the arguments supplied to the Bash script.
+$? - The exit status of the most recently run process.
+$$ - The process ID of the current script.
+$USER - The username of the user running the script.
+$HOSTNAME - The hostname of the machine the script is running on.
+$SECONDS - The number of seconds since the script was started.
+$RANDOM - Returns a different random number each time is it referred to.
+$LINENO - Returns the current line number in the Bash script.
+
+Quotes:
+single quotes treat every character literally
+double quotes allow you to do substitutions (include variables within setting a value)
+
+command substitution
+myvar=$( ls /etc | wc -l ) - will take the output of the command in parens and save it to $myvar
+
+read varName - Read input from the user and store it in the variable varName.
+
+/dev/stdin - A file you can read to get the STDIN for the Bash script
+
+${#variable} - will find the length of the variable (in characters)
