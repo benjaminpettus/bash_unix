@@ -1,4 +1,5 @@
 # Dive into UNIX and Bash \#196
+defective-caiman
 http://jsdev.learnersguild.org/goals/196-Dive_Into_UNIX_and_Bash.html
 ## Description
 
@@ -21,7 +22,7 @@ Note: while the “Learn Enough Command Line” book is free to read online, you
 - [x] Solution code for each exercise is included in its own bash file (\*.sh).
 - [x] Solution code for exercises are stored in a command-line/ directory of your artifact repo.
 - [x] Solution code for each exercise includes a comment with the prompt text for the exercise.
-- [x] 20 activities are completed from the Bash Scripting tutorials.
+- [ ] 20 activities are completed from the Bash Scripting tutorials.
 - [x] Solution code for each activity is included in its own bash file (\*.sh).
 Tip: for the bash-scripting tutorials, check your solutions by executing your bash (.sh) files (type their name in the terminal), instead of writing code directly in the terminal.
 - [x] Solution code for activities are stored in a bash-scripting/ directory of your artifact repo.
@@ -50,6 +51,3 @@ Videos:
 
 Unix Commands Tutorial for Beginners: 1 and 2
 Unix Tutorial for Beginners
-
-## check
-3_ summary.sh
